@@ -114,6 +114,7 @@ Seguimos teniendo overfitting.
 
 - model.add(Dense(out_shape, activation="softmax"))
 
+![Sequential-accuracy-67%](https://user-images.githubusercontent.com/67808305/154388262-2af1613d-65bd-4340-b580-0ad8a7d7df83.jpg)
 
 
 # Conclusion
